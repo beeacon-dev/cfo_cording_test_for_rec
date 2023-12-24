@@ -1,7 +1,7 @@
 import random
 import time
-import create_test_case from utils
-import eval_func from utils
+from utils import create_test_case
+from utils import eval_func
 
 # 問題2
 input_datas2 = []
