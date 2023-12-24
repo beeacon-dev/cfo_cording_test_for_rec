@@ -1,5 +1,8 @@
 import random
 import time
+import create_test_case from utils
+import eval_func from utils
+
 # 問題1
 input_datas1 = []
 for i in range(10):
