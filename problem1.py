@@ -1,3 +1,5 @@
+import random
+import time
 # 問題1
 input_datas1 = []
 for i in range(10):
